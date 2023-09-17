@@ -1,0 +1,13 @@
+h1:hover{
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    /* text-decoration: underline; */
+}
+h1:active{
+    color:greenyellow
+
+}
+h1:visited{
+    color: orange;
+}
